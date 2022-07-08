@@ -1,0 +1,9 @@
+[submodule "service"]
+	path = service
+	url = git@github.com:dingjingmaster/skynet-service.git
+[submodule "web"]
+	path = web
+	url = git@github.com:dingjingmaster/skynet-web.git
+[submodule "spider"]
+	path = spider
+	url = git@github.com:dingjingmaster/skynet-spider.git
